@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+
+# Firmware images and patched output
+*.bin
+*.rom
+*.fd
+patched_*
+
+# Local build and extraction artifacts
+build/
+dist/
+*.exe
+*.rar
+*_extracted/
